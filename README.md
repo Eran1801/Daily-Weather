@@ -1,4 +1,4 @@
-# WeatherAPI
+# Daily Weather
 
 ## In this repository I send the weather of today in a format I want to which phone number I choose via WhatsApp.
 
